@@ -4,9 +4,9 @@ This is a repository contains a guide for how to install CFW (Custom Firmware) o
 You will need a micro SD card that is at least 64 gigabytes or larger. The recommeneded is 128GB.
 
 Serial Number
-Orange https://gbatemp.net/threads/a-definitive-way-to-test-if-your-switch-is-patched-or-not-purchases-after-07-2018.512018/ 
-if https://ismyswitchpatched.com/
-https://www.sdsetup.com/
+- Orange https://gbatemp.net/threads/a-definitive-way-to-test-if-your-switch-is-patched-or-not-purchases-after-07-2018.512018/ 
+- if https://ismyswitchpatched.com/
+- https://www.sdsetup.com/
 
 - TegraRCMGUI
 - NSUSBLoader
