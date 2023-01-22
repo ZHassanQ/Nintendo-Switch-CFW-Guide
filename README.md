@@ -2,10 +2,11 @@
 This is a repository contains a guide for how to install CFW (Custom Firmware) on your Nintendo Switch.
 You will need a micro SD card that is at least 64 gigabytes or larger. The recommeneded is 128GB.
 
+
 Switch CFW Section: [Wiki](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki)
 
-- [C(https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/0.-Compatibility-Check)
-- []()
+- [Compatiblity Check](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/0.-Compatibility-Check)
+- [If Possibly Patched](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/1.-If-Possibly-Patched)
 - []()
 - []()
 - []()
