@@ -1,13 +1,18 @@
 # Nintendo-Switch-CFW-Guide
 This is a repository contains a guide for how to install CFW (Custom Firmware) on your Nintendo Switch.
-
 You will need a micro SD card that is at least 64 gigabytes or larger. The recommeneded is 128GB.
 
+Switch CFW Section: [Wiki](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki)
 
+- [C(https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/0.-Compatibility-Check)
+- []()
+- []()
+- []()
+- []()
 
-# Recommended Apps
+# Original Pages
 
-These apps are mostly required or useful if you thought of doing anything in your Nintendo Switch.
+These apps, CFW, homebrew's are mostly required or useful if you want to do anything with your Nintendo Switch.
 
 
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
