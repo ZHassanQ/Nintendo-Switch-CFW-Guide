@@ -42,7 +42,7 @@ These apps, CFW, homebrew's are mostly required or useful if you want to do anyt
  SD/eMMC titles.
 - [JTegraNX](https://github.com/dylwedma11748/JTegraNX) Another RCM payload injector written in Java and C++ for WINDOWS, Linux, macOS.
 - [NSPsplitty](https://github.com/Aionmagan/NSPsplitty) A tool to split files targeted at the nintendo switch, also useful for general file splitting.
-- [NS-USBLoader](https://github.com/developersu/ns-usbloader) Awoo Installer and GoldLeaf uploader of the NSPs (and other files), RCM payload injector, application for split/merge files.
+- [NS-USBLoader](https://github.com/developersu/ns-usbloader) Awoo-Installer and GoldLeaf uploader of the NSPs (and other files), RCM payload injector, application for split/merge files.
 - [NSZ](https://github.com/nicoboss/nsz) Homebrew compatible NSP/XCI compressor/decompressor.
 - [NXLoader](https://github.com/DavidBuchanan314/NXLoader) Another RCM payload injector for Android.
 - [TegraRCMGUI](https://github.com/eliboa/TegraRcmGUI) C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch).
