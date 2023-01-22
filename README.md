@@ -6,8 +6,8 @@ You will need a micro SD card that is at least 64 gigabytes or larger. The recom
 Switch CFW Section: [Wiki](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki)
 
 - [Compatiblity Check](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/0.-Compatibility-Check)
+- [Entering RCM Mode]()
 - [If Possibly Patched](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/1.-If-Possibly-Patched)
-- []()
 - []()
 - []()
 
