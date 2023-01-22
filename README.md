@@ -22,7 +22,7 @@ These apps are mostly required or useful if you thought of doing anything in you
 - [FakeNews-Injector](https://github.com/noahc3/fakenews-injector) Injects the "Fake News" save data for an easy browser entry point on Switch.
 - [Goldleaf](https://github.com/XorTroll/Goldleaf) 🍂 A multipurpose homebrew tool for Nintendo Switch.
 - [HB-Appstore](https://github.com/fortheusers/hb-appstore) Homebrew App Store - GUI for downloading/managing homebrew apps for video game consoles.
-- [MissionControl](https://github.com/ndeadly/MissionControl) Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
+- [MissionControl](https://github.com/ndeadly/MissionControl) Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. Without external hardware neccessary.
 - [NSC_Builder](https://github.com/julesontheroad/NSC_BUILDER) A Nintendo Switch Cleaner and Builder.
 - [NXDumpTool](https://github.com/DarkMatterCore/nxdumptool) Generates XCI/NSP/HFS0/ExeFS/RomFS/Certificate/Ticket dumps from Nintendo Switch gamecards and installed.
 - [NX-HBmenu](https://github.com/switchbrew/nx-hbmenu) The Nintendo Switch Homebrew Menu.
