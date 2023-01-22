@@ -23,8 +23,11 @@ These apps are mostly required or useful if you thought of doing anything in you
 - [JTegraNX](https://github.com/dylwedma11748/JTegraNX) Another RCM payload injector written in Java and C++ for WINDOWS, Linux, macOS.
 - [Hekate](https://github.com/CTCaer/hekate) A GUI based Nintendo Switch Bootloader.
 - [NXLoader](https://github.com/DavidBuchanan314/NXLoader) Another RCM payload injector for Android.
-- [Goldleaf](https://github.com/XorTroll/Goldleaf) 🍂 Multipurpose homebrew tool for Nintendo Switch.
+- [Goldleaf](https://github.com/XorTroll/Goldleaf) 🍂 A multipurpose homebrew tool for Nintendo Switch.
 - [MissionControl](https://github.com/ndeadly/MissionControl) Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
 - [AIO-Switch-Updater](https://github.com/HamletDuFromage/aio-switch-updater) Update your CFW, cheat codes, firmwares and more directly from your Nintendo Switch!
 - [Emuiibo](https://github.com/XorTroll/emuiibo) Virtual amiibo (amiibo emulation) system for Nintendo Switch.
-- [NX-Shell](https://github.com/joel16/NX-Shell) A multi-purpose file manager for the Nintendo Switch.https://github.com/joel16/NX-Shell
+- [NX-Shell](https://github.com/joel16/NX-Shell) A multi-purpose file manager for the Nintendo Switch.https://github.com/joel16/NX-Shell.
+- [Themezer-NX](https://github.com/suchmememanyskill/themezer-nx) A switch theme downloader that pulls from [Themezer Website](https://themezer.net/).
+- [NX-HBmenu](https://github.com/switchbrew/nx-hbmenu) The Nintendo Switch Homebrew Menu.
+- [HB-Appstore](https://github.com/fortheusers/hb-appstore) Homebrew App Store - GUI for downloading/managing homebrew apps for video game consoles.
