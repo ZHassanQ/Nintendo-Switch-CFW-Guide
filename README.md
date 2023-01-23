@@ -28,7 +28,7 @@ These apps, CFW, homebrew's are mostly required or useful if you want to do anyt
 - [FakeNews-Injector](https://github.com/noahc3/fakenews-injector) Injects the "Fake News" save data for an easy browser entry point on Switch.
 - [Goldleaf](https://github.com/XorTroll/Goldleaf) 🍂 A multipurpose homebrew tool for Nintendo Switch.
 - [HB-Appstore](https://github.com/fortheusers/hb-appstore) GUI for downloading/managing homebrew apps for video game consoles.
-- [MissionControl](https://github.com/ndeadly/MissionControl) Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. Without any external hardware neccessary.
+- [MissionControl](https://github.com/ndeadly/MissionControl) Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. Without dongles.
 - [NSC_Builder](https://github.com/julesontheroad/NSC_BUILDER) A Nintendo Switch Cleaner and Builder.
 - [NXDumpTool](https://github.com/DarkMatterCore/nxdumptool) Generates XCI/NSP/HFS0/ExeFS/RomFS/Certificate/Ticket dumps from Nintendo Switch gamecards.
 - [NX-HBmenu](https://github.com/switchbrew/nx-hbmenu) The Nintendo Switch Homebrew Menu.
