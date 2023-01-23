@@ -44,6 +44,7 @@ These apps, CFW, homebrew's are mostly required or useful if you want to do anyt
 - [SimpleModManager](https://github.com/nadrino/SimpleModManager) SimpleModManager is an homebrew app for the Nintendo Switch.
 - [Switch_90DNS_Tester](https://github.com/meganukebmp/Switch_90DNS_tester) A simple homebrew application to test 90DNS or Atmosphere DNS MITM on the switch.
 - [Themezer-NX](https://github.com/suchmememanyskill/themezer-nx) A switch theme downloader that pulls from [Themezer Website](https://themezer.net/).
+- [Tinfoil](https://tinfoil.io/Download) The #1 Switch title manager. Install Homebrew Safely
 
 ---
 
