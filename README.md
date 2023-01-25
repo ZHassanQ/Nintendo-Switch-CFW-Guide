@@ -47,7 +47,6 @@ These apps, CFW, homebrew's are mostly required or useful if you want to do anyt
 - [NXDumpTool](https://github.com/DarkMatterCore/nxdumptool) Generates XCI/NSP/HFS0/ExeFS/RomFS/Certificate/Ticket dumps from Nintendo Switch gamecards.
 - [NX-HBmenu](https://github.com/switchbrew/nx-hbmenu) The Nintendo Switch Homebrew Menu.
 - [NX-Shell](https://github.com/joel16/NX-Shell) A multi-purpose file manager for the Nintendo Switch.
-- [Reboot to RCM](https://github.com/pixel-stuck/reboot_to_rcm) A small app to reboot 1.0 Switches into RCM mode.
 - [RetroArch](https://www.retroarch.com/) A frontend for emulators, game engines and media players.
 - [SimpleModManager](https://github.com/nadrino/SimpleModManager) SimpleModManager is an homebrew app for the Nintendo Switch.
 - [Switch_90DNS_Tester](https://github.com/meganukebmp/Switch_90DNS_tester) A simple homebrew application to test 90DNS or Atmosphere DNS MITM on the switch.
