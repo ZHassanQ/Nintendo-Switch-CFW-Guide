@@ -8,16 +8,12 @@ Switch CFW Section: [Wiki](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide
 - [Compatiblity Check](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/0.-Compatibility-Check)
 - [Entering RCM Mode](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/1.-Entering-RCM-Mode)
 - [90DNS](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/2.-90DNS)
-- [Entering Hekate](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/3.-Entering-Hekate)
+- [Preprations]((https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/3.-Preprations)
 - []()
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
 
 # Original Pages
 
