@@ -9,10 +9,8 @@ Switch CFW Section: [Wiki](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide
 - [Entering RCM Mode](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/1.-Entering-RCM-Mode)
 - [90DNS](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/2.-90DNS)
 - [Preprations](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/3.-Preprations)
-- []()
-- []()
-- []()
-- []()
+- [emuMMC](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/4.-emuMMC)
+- [Atmosphère](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/5.-Atmosph%C3%A8re)
 
 
 # Original Pages
@@ -20,7 +18,7 @@ Switch CFW Section: [Wiki](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide
 These apps, CFW, homebrew's are mostly required or useful if you want to do anything with your Nintendo Switch.
 
 
-- [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+- [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [Hekate](https://github.com/CTCaer/hekate) A GUI based Nintendo Switch Bootloader.
 - [LockpickRCM](https://github.com/shchmue/Lockpick_RCM/) Nintendo Switch encryption key derivation bare metal RCM payload.
 - [ovr-SysModules](https://github.com/WerWolv/ovl-sysmodules) A sysmodule selector for Tesla.
