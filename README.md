@@ -21,7 +21,6 @@ These apps, CFW, homebrew's are mostly required or useful if you want to do anyt
 
 
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-- [Biskeydump](https://switchtools.sshnuke.net/) A payload to test whether your Nintendo Switch is patched or not.
 - [Hekate](https://github.com/CTCaer/hekate) A GUI based Nintendo Switch Bootloader.
 - [LockpickRCM](https://github.com/shchmue/Lockpick_RCM/) Nintendo Switch encryption key derivation bare metal RCM payload.
 - [ovr-SysModules](https://github.com/WerWolv/ovl-sysmodules) A sysmodule selector for Tesla.
