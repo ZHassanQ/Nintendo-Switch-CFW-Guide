@@ -25,23 +25,33 @@ These apps, CFW, homebrew's are mostly required or useful if you want to do anyt
 
 
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-- [Hekate](https://github.com/CTCaer/hekate) A GUI based Nintendo Switch Bootloader.
 - [Biskeydump](https://switchtools.sshnuke.net/) A payload to test whether your Nintendo Switch is patched or not.
+- [Hekate](https://github.com/CTCaer/hekate) A GUI based Nintendo Switch Bootloader.
+- [LockpickRCM](https://github.com/shchmue/Lockpick_RCM/) Nintendo Switch encryption key derivation bare metal RCM payload.
+- [ovr-SysModules](https://github.com/WerWolv/ovl-sysmodules) A sysmodule selector for Tesla.
+- [sys-clk](https://github.com/retronx-team/sys-clk/) Nintendo Switch homebrew overclocking/underclocking system module and frontend.
+- [sys-FTPD](https://github.com/cathery/sys-ftpd) A Nintendo Switch FTP server as a background service.
+- [Tesla-Menu](https://github.com/WerWolv/Tesla-Menu) The Nintendo Switch overlay menu.
 
 ---
 
 - [AIO-Switch-Updater](https://github.com/HamletDuFromage/aio-switch-updater) Update your CFW, cheat codes, firmwares and more directly from your Nintendo Switch!
 - [Awoo-Installer](https://github.com/Huntereb/Awoo-Installer) A NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch.
+- [Caffiene](https://github.com/atlasnx/caffeine) An implementation of a warmboot exploit for Nintendo Switch running system software 3.0.0.
 - [Checkpoint](https://github.com/FlagBrew/Checkpoint) Fast and simple homebrew save manager for 3DS and Switch.
+- [Edizon-SE](https://github.com/tomvita/EdiZon-SE) A homebrew save management, editing tool and memory trainer for the Nintendo Switch.
 - [Emuiibo](https://github.com/XorTroll/emuiibo) Virtual amiibo (amiibo emulation) system for Nintendo Switch.
 - [FakeNews-Injector](https://github.com/noahc3/fakenews-injector) Injects the "Fake News" save data for an easy browser entry point on Switch.
 - [Goldleaf](https://github.com/XorTroll/Goldleaf) 🍂 A multipurpose homebrew tool for Nintendo Switch.
 - [HB-Appstore](https://github.com/fortheusers/hb-appstore) GUI for downloading/managing homebrew apps for video game consoles.
+- [Hekate Toolbox](https://github.com/WerWolv/Hekate-Toolbox) A toolbox for Hekate.
 - [MissionControl](https://github.com/ndeadly/MissionControl) Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. Without dongles.
+- [Neraba](https://github.com/AtlasNX/nereba) A warmboot bootrom exploit for the Nintendo Switch.
 - [NSC_Builder](https://github.com/julesontheroad/NSC_BUILDER) A Nintendo Switch Cleaner and Builder.
 - [NXDumpTool](https://github.com/DarkMatterCore/nxdumptool) Generates XCI/NSP/HFS0/ExeFS/RomFS/Certificate/Ticket dumps from Nintendo Switch gamecards.
 - [NX-HBmenu](https://github.com/switchbrew/nx-hbmenu) The Nintendo Switch Homebrew Menu.
 - [NX-Shell](https://github.com/joel16/NX-Shell) A multi-purpose file manager for the Nintendo Switch.
+- [Reboot to RCM](https://github.com/pixel-stuck/reboot_to_rcm) A small app to reboot 1.0 Switches into RCM mode.
 - [RetroArch](https://www.retroarch.com/) A frontend for emulators, game engines and media players.
 - [SimpleModManager](https://github.com/nadrino/SimpleModManager) SimpleModManager is an homebrew app for the Nintendo Switch.
 - [Switch_90DNS_Tester](https://github.com/meganukebmp/Switch_90DNS_tester) A simple homebrew application to test 90DNS or Atmosphere DNS MITM on the switch.
