@@ -46,7 +46,6 @@ These apps, CFW, homebrew's are mostly required or useful if you want to do anyt
 - [NX-Shell](https://github.com/joel16/NX-Shell) A multi-purpose file manager for the Nintendo Switch.
 - [RetroArch](https://www.retroarch.com/) A frontend for emulators, game engines and media players.
 - [SimpleModManager](https://github.com/nadrino/SimpleModManager) SimpleModManager is an homebrew app for the Nintendo Switch.
-- [Switch_90DNS_Tester](https://github.com/meganukebmp/Switch_90DNS_tester) A simple homebrew application to test 90DNS or Atmosphere DNS MITM on the switch.
 - [Themezer-NX](https://github.com/suchmememanyskill/themezer-nx) A switch theme downloader that pulls from [Themezer Website](https://themezer.net/).
 - [Tinfoil](https://tinfoil.io/Download) The #1 Switch title manager. Install Homebrew Safely
 
@@ -54,7 +53,6 @@ These apps, CFW, homebrew's are mostly required or useful if you want to do anyt
 
 - [4NXCI](https://github.com/The-4n/4NXCI) A tool for converting XCI(NX Card Image) files to NSP.
  SD/eMMC titles.
-- [90DNS](https://gitlab.com/a/90dns#usage-on-switch) NX DNS setup with BIND9 and nginx for blocking all Nintendo servers.
 - [JTegraNX](https://github.com/dylwedma11748/JTegraNX) Another RCM payload injector written in Java and C++ for WINDOWS, Linux, macOS.
 - [NSPsplitty](https://github.com/Aionmagan/NSPsplitty) A tool to split files targeted at the nintendo switch, also useful for general file splitting.
 - [NS-USBLoader](https://github.com/developersu/ns-usbloader) Awoo-Installer and GoldLeaf uploader of the NSPs, RCM payload injector, application for split/merge files.
