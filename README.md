@@ -48,7 +48,7 @@ Switch CFW Section: [Wiki](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide
 - [Tinfoil](https://tinfoil.io/Download) The #1 Switch title manager. Install Homebrew Safely
 
 
-## Apps (PC)
+## Apps (Computer)
 
 - [4NXCI](https://github.com/The-4n/4NXCI) A tool for converting XCI(NX Card Image) files to NSP.
  SD/eMMC titles.
