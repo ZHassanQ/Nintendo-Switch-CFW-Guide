@@ -13,10 +13,7 @@ Switch CFW Section: [Wiki](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide
 - [Atmosphère](https://github.com/ZHassanQ/Nintendo-Switch-CFW-Guide/wiki/5.-Atmosph%C3%A8re)
 
 
-# Original Pages
-
-These apps, CFW, homebrew's are mostly required or useful if you want to do anything with your Nintendo Switch.
-
+## Custom Frimware & Essentials
 
 - [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [Hekate](https://github.com/CTCaer/hekate) A GUI based Nintendo Switch Bootloader.
@@ -26,7 +23,8 @@ These apps, CFW, homebrew's are mostly required or useful if you want to do anyt
 - [sys-FTPD](https://github.com/cathery/sys-ftpd) A Nintendo Switch FTP server as a background service.
 - [Tesla-Menu](https://github.com/WerWolv/Tesla-Menu) The Nintendo Switch overlay menu.
 
----
+
+## Apps (Switch)
 
 - [AIO-Switch-Updater](https://github.com/HamletDuFromage/aio-switch-updater) Update your CFW, cheat codes, firmwares and more directly from your Nintendo Switch!
 - [Awoo-Installer](https://github.com/Huntereb/Awoo-Installer) A NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch.
@@ -49,7 +47,8 @@ These apps, CFW, homebrew's are mostly required or useful if you want to do anyt
 - [Themezer-NX](https://github.com/suchmememanyskill/themezer-nx) A switch theme downloader that pulls from [Themezer Website](https://themezer.net/).
 - [Tinfoil](https://tinfoil.io/Download) The #1 Switch title manager. Install Homebrew Safely
 
----
+
+## Apps (PC)
 
 - [4NXCI](https://github.com/The-4n/4NXCI) A tool for converting XCI(NX Card Image) files to NSP.
  SD/eMMC titles.
